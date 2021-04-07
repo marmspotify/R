@@ -1,2 +1,2 @@
 # R
-Curso
+Curso de prueba
